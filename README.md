@@ -1,6 +1,6 @@
 # Youtube-Clone
 
-This repository contains the code for a simple YouTube clone web application. The application mimics some of the basic functionalities and design elements of the YouTube website. The web application is deployed and can be accessed [here](https://kirankumar72.github.io/yt-clone/).
+This repository contains the code for a simple YouTube clone web application. The application mimics some of the basic functionalities and design elements of the YouTube website. The web application is deployed and can be accessed [here](https://kirankumar72.github.io/Youtube-Clone/).
 
 ## Technologies Used
 
